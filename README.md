@@ -10,7 +10,7 @@ Some of those things I've dove into lately are:
 - State management in React (Context API)
 - TypeScript
 
-You can reach out by emailing me at jd@jdfill.me. Thanks for stopping by!
+You can reach out by emailing me at jdfillmore.dev@gmail.com. Thanks for stopping by!
 
 <!---
 jd-fillmore/jd-fillmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
