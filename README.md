@@ -1,4 +1,4 @@
-👋 Hello! I'm JD. I'm a front-end developer & web / UI designer.
+👋 Hello! I'm JD. I'm a front-end developer with background in design.
 
 In my current full-time remote role at Battlefield Equipment Rentals, I add features to and maintain the front-end of our web applications and company websites.
 
