@@ -6,8 +6,8 @@ I'm a life-long learner and believe in learning technologies that will help me b
 
 Some of those things I've dove into lately are:
 
-- NodeJS to extend my knowledge to the back-end
-- State management in React (Context API)
+- NodeJS / ExpressJS to extend my knowledge to the back-end
+- State management in React (React-Query, Zustand)
 - TypeScript
 
 You can reach out by emailing me at jdfillmore.dev@gmail.com. Thanks for stopping by!
