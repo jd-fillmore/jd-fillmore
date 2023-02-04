@@ -2,7 +2,7 @@
 
 I work remotely full-time at Battlefield Equipment Rentals, maintaining and adding features to the front-end of web apps and company websites.
 
-Constantly learning new technologies for my job and career advancement - currently exploring NodeJS/ExpressJS, state management in React, and TypeScript.
+Constantly learning new technologies for my job and career advancement - currently exploring NodeJS/ExpressJS, User Authentication, and TypeScript.
 
 You can reach out by emailing me at jdfillmore.dev@gmail.com. Thanks for stopping by!
 
