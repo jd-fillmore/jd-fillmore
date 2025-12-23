@@ -1,3 +1,5 @@
-👋 Hi, I’m JD, a senior frontend developer and UI designer. I create intuitive user interfaces and build performant frontend web applications at Battlefield Equipment Rentals, while expanding into full-stack development with React, TypeScript, ASP.NET Core, and PostgreSQL. I’m also exploring Node.js and Express through side projects to broaden my backend experience.
+👋 Hi, I’m JD, a Full Stack Software Developer with 9 years of frontend experience and 3+ years building backend systems. I architect and build scalable, user-facing applications using React, TypeScript, Node.js, .NET Core, and PostgreSQL, delivering solutions that serve 100,000+ users and drive measurable business outcomes.
 
-Check out my projects on GitHub, or reach me at jdfillmore.dev@gmail.com.
+I’m passionate about end-to-end development, from designing intuitive interfaces to building performant backend APIs. I’m continuously expanding my full-stack skillset through consulting projects and production applications.
+
+Check out my projects on GitHub, or reach me at jdfillmore.dev@gmail.com
